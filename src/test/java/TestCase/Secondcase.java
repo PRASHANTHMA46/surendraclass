@@ -13,6 +13,7 @@ public class Secondcase {
 		
 		System.out.println("browser Lanuched");
 		System.out.println("lokesh name");
+		System.out.println("created a new branch");
 		driver.quit();
 		
 	}
