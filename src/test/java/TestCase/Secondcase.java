@@ -12,7 +12,7 @@ public class Secondcase {
 		driver.get("https://www.google.co.in/");
 		
 		System.out.println("browser Lanuched");
-		
+		System.out.println("lokesh name");
 		driver.quit();
 		
 	}
